@@ -1,3 +1,4 @@
+"use client";
 import { getLocationData } from "@/lib/location-info";
 import LocationSwitcher from "./LocationSwitcher";
 
