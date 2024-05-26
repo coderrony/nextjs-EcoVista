@@ -1,3 +1,3 @@
 
 
-### LIve Link: https://nextjs-econvista.vercel.app/
+### LIve Link: https://nextjs-eco-vista.vercel.app/
