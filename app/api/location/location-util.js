@@ -42,7 +42,7 @@ function getLocationByName(location) {
     (item) => item.location.toLowerCase() === location.toLowerCase()
   );
 
-  return found || {};
+  return found || null;
 }
 
 export { getLocationByName, getLocations };
